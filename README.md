@@ -79,11 +79,13 @@ This project aims to create a **transparent, decentralized, and sustainable agri
 
 ---
 
-## 📷 Screenshots & Architecture Diagram *(To be added)*
+## 📷 Screenshots & Architecture Diagram
 
 ![Prototype pic 1](https://github.com/DileepReddy18/Blockchain-Enabled-Agricultural-Sensor-Network-for-Data-Transparency/blob/993bd0c94856a924575a39bef1f9a25e85051c5c/img_1.jpg)
 
 ![Prototype pic 2](https://github.com/DileepReddy18/Blockchain-Enabled-Agricultural-Sensor-Network-for-Data-Transparency/blob/993bd0c94856a924575a39bef1f9a25e85051c5c/img_2.jpg)
+
+![output](https://github.com/DileepReddy18/Blockchain-Enabled-Agricultural-Sensor-Network-for-Data-Transparency/blob/e1f6eefdd3e3eecb5a21e249bfea77226117da0d/output.png)
 
 ---
 
